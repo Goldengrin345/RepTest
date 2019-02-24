@@ -1,0 +1,17 @@
+body{
+	background:url(light-veneer.png) 100%;
+}
+h1.heading{
+	font-size: 720%;
+	color: #1A237E;
+	font-family: Comic Sans MS;
+}
+footer{
+	background-color:gray;
+	size:50%;
+	color: yellow;
+	
+	bottom: 0;
+   width: 100%;
+   height: 120px;  
+}
